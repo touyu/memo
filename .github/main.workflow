@@ -16,3 +16,4 @@ action "deploy-hugo" {
   needs = ["Filters for GitHub Actions"]
   secrets = ["GITHUB_TOKEN"]
 }
+
