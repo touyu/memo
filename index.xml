@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>memo.touyu.me</title>
+    <link>https://memo.touyu.me/</link>
+    <description>Recent content on memo.touyu.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 23 Jan 2019 15:12:46 +0900</lastBuildDate>
+    
+	<atom:link href="https://memo.touyu.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>聴いてる声優ラジオ</title>
+      <link>https://memo.touyu.me/content/posts/voice-actor-radio/</link>
+      <pubDate>Wed, 23 Jan 2019 15:12:46 +0900</pubDate>
+      
+      <guid>https://memo.touyu.me/content/posts/voice-actor-radio/</guid>
+      <description>- 音泉 - プレミアム会員になるか迷ってる。まだなってない。
+高橋李依・上田麗奈 仕事で会えないからラジオはじめました。 上田麗奈さん。プレミアム会員になると続きが聴ける。
+青春ブタ野郎はバニーガール先輩とおるすばん妹のラジオを聴きたい 瀬戸麻沙美さんと久保ユリカさん良き
+アニメGRIDMAN ラジオ とりあえずUNION 宮本侑芽さんと広瀬裕也さんの絡みが良い。宮本侑芽さんの「きもいーっ！」でなるほどというお気持ちになれる。 たまに上田麗奈さん出てくる。アニメが終わってもラジオは続くらしいので嬉しい。
+やがて君になる～私、このラジオ好きになりそう～ 涼風青葉味が深い。
+- 響 - ジュラの森放送局 岡咲美保さんのトークが良き。20歳なのに話すの上手くてすごいなーという感じ。
+- 終わってしまったシリーズ - 岡咲美保の花咲け！美保ちゃん もう最終回を迎えてしまった。今まで放送してたものはどこで聴くんだろう。
+デュララジ!! 花ちゃんととしくんの絡みが好きだった。過去の放送見たい。
+Charlotteラジオ ～友利奈緒の生徒会活動日誌～ 佐倉綾音さんと内山昂輝さんの掛け合いが良かった。音泉内で聴けるようにしてほしい。</description>
+    </item>
+    
+    <item>
+      <title>Hugoを使ってみた</title>
+      <link>https://memo.touyu.me/content/posts/first/</link>
+      <pubDate>Wed, 23 Jan 2019 03:58:49 +0900</pubDate>
+      
+      <guid>https://memo.touyu.me/content/posts/first/</guid>
+      <description>Hugoのテーマ見たけど、良さげなやつは大体1、2年前に開発止まってた。
+Syntax Highlight がいい感じの色合いで、全体的にシンプルなテーマが欲しい。
+ちなみに、GitHub Pages でホスティングしてるけど、コード管理と生成されたファイルのデプロイを GitHub Actions でいい感じに１つのレポジトリで外部のCIも使わずできたので気持ちいい。
+と思ったけど、ActionsでPushすると、上手く行かない&amp;hellip;
+追記(2019-01-23 23:00)
+{user}.github.io だと Actionsからのデプロイが上手くいかないので、別のリポジトリに立ててみた。</description>
+    </item>
+    
+  </channel>
+</rss>

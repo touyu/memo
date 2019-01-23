@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github Pages on memo.touyu.me</title>
+    <link>https://memo.touyu.me/tags/github-pages/</link>
+    <description>Recent content in Github Pages on memo.touyu.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 23 Jan 2019 03:58:49 +0900</lastBuildDate>
+    
+	<atom:link href="https://memo.touyu.me/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugoを使ってみた</title>
+      <link>https://memo.touyu.me/content/posts/first/</link>
+      <pubDate>Wed, 23 Jan 2019 03:58:49 +0900</pubDate>
+      
+      <guid>https://memo.touyu.me/content/posts/first/</guid>
+      <description>Hugoのテーマ見たけど、良さげなやつは大体1、2年前に開発止まってた。
+Syntax Highlight がいい感じの色合いで、全体的にシンプルなテーマが欲しい。
+ちなみに、GitHub Pages でホスティングしてるけど、コード管理と生成されたファイルのデプロイを GitHub Actions でいい感じに１つのレポジトリで外部のCIも使わずできたので気持ちいい。
+と思ったけど、ActionsでPushすると、上手く行かない&amp;hellip;
+追記(2019-01-23 23:00)
+{user}.github.io だと Actionsからのデプロイが上手くいかないので、別のリポジトリに立ててみた。</description>
+    </item>
+    
+  </channel>
+</rss>
