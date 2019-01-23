@@ -15,7 +15,7 @@ cd memo
 git checkout $remote_branch  && \
 pwd
 ls
-cp -rf ../dist/ ./  && \
+cp -rf ../dist/* ./  && \
 pwd
 ls
 git config user.name "${GITHUB_ACTOR}" && \
