@@ -1,4 +1,4 @@
-baseURL = "https://touyu.github.io"
+baseURL = "https://touyu.github.io/blog"
 languageCode = "ja"
 title = "blog.touyu.me"
 theme = "m10c"
