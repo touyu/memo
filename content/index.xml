@@ -39,7 +39,8 @@ Syntax Highlight がいい感じの色合いで、全体的にシンプルなテ
 ちなみに、GitHub Pages でホスティングしてるけど、コード管理と生成されたファイルのデプロイを GitHub Actions でいい感じに１つのレポジトリで外部のCIも使わずできたので気持ちいい。
 と思ったけど、ActionsでPushすると、上手く行かない&amp;hellip;
 追記(2019-01-23 23:00)
-{user}.github.io だと Actionsからのデプロイが上手くいかないので、別のリポジトリに立ててみた。</description>
+{user}.github.io だと Actionsからのデプロイが上手くいかないので、別のリポジトリに立ててみた。
+aaa</description>
     </item>
     
   </channel>
