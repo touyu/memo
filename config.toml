@@ -1,0 +1,17 @@
+baseURL = "https://touyu.github.io"
+languageCode = "ja"
+title = "blog.touyu.me"
+theme = "m10c"
+
+[params]
+  author = "touyu"
+  description = "Swiftが好き。Goも書く。"
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/touyu"
+
+[[params.social]]
+  name = "twitter"
+  url = "https://twitter.com/akkey0222"
+  
