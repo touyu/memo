@@ -1,6 +1,6 @@
-baseURL = "https://touyu.github.io/blog"
+baseURL = "https://memo.touyu.me"
 languageCode = "ja"
-title = "blog.touyu.me"
+title = "memo.touyu.me"
 theme = "m10c"
 
 [params]
