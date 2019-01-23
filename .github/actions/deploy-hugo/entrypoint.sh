@@ -11,7 +11,7 @@ remote_repo="https://${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" && \
 remote_branch="gh-pages" && \
 
 git clone $remote_repo  && \
-cd ${GITHUB_REPOSITORY}  && \
+cd memo && \
 git checkout $remote_branch  && \
 cp -rf ../dist/ ./  && \
 git config user.name "${GITHUB_ACTOR}" && \
