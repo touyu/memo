@@ -13,10 +13,10 @@
     
     <item>
       <title>Hugoを使ってみた</title>
-      <link>https://memo.touyu.me/content/posts/first/</link>
+      <link>https://memo.touyu.me/posts/first/</link>
       <pubDate>Wed, 23 Jan 2019 03:58:49 +0900</pubDate>
       
-      <guid>https://memo.touyu.me/content/posts/first/</guid>
+      <guid>https://memo.touyu.me/posts/first/</guid>
       <description>Hugoのテーマ見たけど、良さげなやつは大体1、2年前に開発止まってた。
 Syntax Highlight がいい感じの色合いで、全体的にシンプルなテーマが欲しい。
 ちなみに、GitHub Pages でホスティングしてるけど、コード管理と生成されたファイルのデプロイを GitHub Actions でいい感じに１つのレポジトリで外部のCIも使わずできたので気持ちいい。

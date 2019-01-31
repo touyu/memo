@@ -3,23 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://memo.touyu.me/content/posts/voice-actor-radio/</loc>
+    <loc>https://memo.touyu.me/posts/hinekure/</loc>
+    <lastmod>2019-02-01T01:01:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memo.touyu.me/posts/voice-actor-radio/</loc>
     <lastmod>2019-01-23T15:12:46+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://memo.touyu.me/content/posts/first/</loc>
+    <loc>https://memo.touyu.me/posts/first/</loc>
     <lastmod>2019-01-23T03:58:49+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://memo.touyu.me/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://memo.touyu.me/content/</loc>
-    <lastmod>2019-01-23T15:12:46+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,6 +35,12 @@
   </url>
   
   <url>
+    <loc>https://memo.touyu.me/posts/</loc>
+    <lastmod>2019-02-01T01:01:12+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://memo.touyu.me/tags/</loc>
     <lastmod>2019-01-23T03:58:49+09:00</lastmod>
     <priority>0</priority>
@@ -43,7 +48,13 @@
   
   <url>
     <loc>https://memo.touyu.me/</loc>
-    <lastmod>2019-01-23T15:12:46+09:00</lastmod>
+    <lastmod>2019-02-01T01:01:12+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://memo.touyu.me/tags/%E3%83%9D%E3%82%A8%E3%83%A0/</loc>
+    <lastmod>2019-02-01T01:01:12+09:00</lastmod>
     <priority>0</priority>
   </url>
   
