@@ -1,0 +1,38 @@
+{{ define "main" }}
+  <article class="post">
+    <header class="post-header">
+      <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+      <h1 class ="post-title">{{ .Title }}</h1>
+      <div class="post-meta">
+        <div>
+          {{ partial "icon.html" "calendar" }}
+          {{ .PublishDate.Format "Jan 2, 2006" }}
+        </div>
+        <div>
+          {{ partial "icon.html" "clock" }}
+          {{ .ReadingTime }} min read
+        </div>
+        {{- with .Params.tags -}}
+        <div>
+          {{ partial "icon.html" "tag" }}
+          {{ range . -}}
+            {{- with $.Site.GetPage (printf "/%s/%s" "tags" . ) -}}
+              <a class="tag" href="{{ .Permalink }}">{{ .Title }}</a>
+            {{- end -}}
+          {{- end -}}
+        </div>
+        {{- end -}}
+      </div>
+    </header>
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+  </article>
+  <!-- <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">aaa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+  <a href="https://twitter.com/share?text={{ .Title }} //&url={{ .Permalink }}"><i class="fab fa-twitter"></i></a>
+  <style>
+      .fa-twitter {
+          color: #afbac4;
+      }
+  </style>
+{{ end }}
