@@ -1,0 +1,10 @@
+#!/bin/sh
+
+hugo -v -d ../memo-deploy/public
+cd ../memo
+git checkout gh-pages
+cp -rf ../memo-deploy/public/ ../memo/
+git add .
+git commit -m "update"
+git push origin gh-pages
+git checkout master
