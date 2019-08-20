@@ -16,4 +16,8 @@ RUN wget "${HUGO_URL}" && \
     tar -zxvf "${HUGO_NAME}.tar.gz" && \
     mv ./hugo /go/bin/
 
+RUN pwd
+
+RUN ls
+
 ENTRYPOINT [ "/go/bin/hugo" ]
