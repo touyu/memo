@@ -17,7 +17,7 @@ RUN wget "${HUGO_URL}" && \
     mv ./hugo /go/bin/
 
 RUN pwd
-
 RUN ls
+RUN cat README.md
 
 ENTRYPOINT [ "/go/bin/hugo" ]
