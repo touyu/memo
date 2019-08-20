@@ -11,7 +11,7 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: build
-      uses: peaceiris/actions-hugo@v0.57.2
+      uses: touyu/memo@v0.1
       with:
         args: --gc --minify --cleanDestinationDir
     - name: deploy
