@@ -11,7 +11,7 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: build
-      uses: touyu/memo@v0.1
+      uses: ./
       with:
         args: --gc --minify --cleanDestinationDir
     - name: deploy
