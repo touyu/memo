@@ -17,6 +17,7 @@ jobs:
         hugo-version: '0.53'
 
     - name: Build
+      run: cd themes/m10c && git pull origin master
       run: hugo --gc --minify --cleanDestinationDir
 
     - name: Deploy
