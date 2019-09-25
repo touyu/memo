@@ -18,6 +18,7 @@ jobs:
 
     - name: Build
       run: hugo --gc --minify --cleanDestinationDir
+      run: ls
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2.4.0
