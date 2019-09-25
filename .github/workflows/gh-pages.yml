@@ -17,7 +17,7 @@ jobs:
         hugo-version: '0.58.3'
 
     - name: Fetch Theme
-      run: cd themes/m10c && ls
+      run: cd themes/m10c && ls -a
 
     - name: Build
       run: hugo --gc --minify --cleanDestinationDir
