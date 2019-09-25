@@ -16,8 +16,11 @@ jobs:
       with:
         hugo-version: '0.58.3'
 
+    - fetch-theme:
+      run: cd themes/m10c && git pull origin master
+
     - name: Build
-      run: hugo --gc --minify --cleanDestinationDir && ls public
+      run: hugo --gc --minify --cleanDestinationDir
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2.4.0
