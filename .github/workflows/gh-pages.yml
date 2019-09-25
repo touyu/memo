@@ -16,7 +16,7 @@ jobs:
       with:
         hugo-version: '0.58.3'
 
-    - fetch-theme:
+    - name: Fetch Theme
       run: cd themes/m10c && git pull origin master
 
     - name: Build
