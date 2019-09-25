@@ -14,10 +14,9 @@ jobs:
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2.2.0
       with:
-        hugo-version: '0.53'
+        hugo-version: '0.58.3'
 
     - name: Build
-      run: cd themes/m10c && git pull origin master
       run: hugo --gc --minify --cleanDestinationDir
 
     - name: Deploy
