@@ -5,7 +5,7 @@ theme = "m10c"
 
 [params]
   author = "touyu"
-  description = "Swiftが好き。Goも書く。"
+  description = "これらはメモです"
 
 [params.style]
   # darkestColor = "#00ff00"
