@@ -5,6 +5,14 @@
     }
 }
 
+.app-container {
+    padding: 2.5rem 1.0rem 2.5rem 1.0rem;
+}
+
 body {
     font-family: "M PLUS 1p";
+}
+
+.post-content p {
+    line-height: 1.8;
 }
