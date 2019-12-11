@@ -2,10 +2,11 @@ baseURL = "https://memo.touyu.me"
 languageCode = "ja"
 title = "memo.touyu.me"
 theme = "m10c"
+paginate = 15
 
 [params]
   author = "touyu"
-  description = "これらはメモです"
+  description = "This is just a memorandum."
 
 [params.style]
   # darkestColor = "#00ff00"
