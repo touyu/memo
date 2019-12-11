@@ -7,19 +7,11 @@ paginate = 15
 [params]
   author = "touyu"
   description = "This is just a memorandum."
-
-# [params.style]
-  # darkestColor = "#00ff00"
-  # darkColor = "#ffffff"
-  # lightColor = "#242424"
-  # lightestColor = "#242424"
-  # primaryColor = "#3498db"
-  # primaryColor = "#3498db"
-
+  
 [params.style]
-  darkestColor = "#463625"
-  darkColor = "#2a3738"
-  primaryColor = "#eeee6a"
-  lightColor = "#96a879"
-  lightestColor = "#ffffff"
+  # darkestColor = "#463625"
+  # darkColor = "#2a3738"
+  primaryColor = "#3498db"
+  # lightColor = "#96a879"
+  # lightestColor = "#ffffff"
   
