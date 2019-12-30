@@ -1,7 +1,7 @@
 ---
 title: "青ブタラジオ第９回を聞いてほしい"
 date: 2019-02-27T19:33:34+09:00
-draft: false
+draft: true
 ---
 
 https://youtu.be/1sagV512wSU?t=1270

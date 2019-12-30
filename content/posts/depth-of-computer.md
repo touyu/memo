@@ -1,7 +1,7 @@
 ---
 title: "コンピュータの奥深さ"
 date: 2019-12-20T02:31:13+09:00
-draft: false
+draft: true
 tags: ["computer", "programming"]
 ---
 
