@@ -8,6 +8,7 @@ paginate = 15
   author = "touyu"
   description = "This is just a memorandum."
   customCSS = ["/css/custom.css"]
+  images = ["static/og.png"]
 
 [params.style]
   # darkestColor = "#463625"
