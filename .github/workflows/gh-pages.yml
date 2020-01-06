@@ -4,7 +4,6 @@ on:
   push:
     branches:
     - master
-    - correspond-to-rss
 
 jobs:
   build-deploy:
