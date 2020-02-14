@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>memo.touyu.me</title><link>https://memo.touyu.me/</link><description>Recent content on memo.touyu.me</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Mon, 06 Jan 2020 20:09:34 +0900</lastBuildDate><atom:link href="https://memo.touyu.me/index.xml" rel="self" type="application/rss+xml"/><item><title>面白い異世界系アニメと面白くない異世界系アニメの違い</title><link>https://memo.touyu.me/posts/another-world-anime/</link><pubDate>Mon, 06 Jan 2020 20:09:34 +0900</pubDate><guid>https://memo.touyu.me/posts/another-world-anime/</guid><description>ここでいう異世界アニメは異世界転生系と思ってほしい。 基本的に異世界アニメは好きで、クソだなと思った作品でも大体最終回まで惰性で見続けてしまう。（クソといってしまうと関係者全員をdisってしまっているように聞こえるが、あくまで作品の内容に対してのクソだと理解していただきたい）
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>memo.touyu.me</title><link>https://memo.touyu.me/</link><description>Recent content on memo.touyu.me</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Fri, 14 Feb 2020 23:31:01 +0900</lastBuildDate><atom:link href="https://memo.touyu.me/index.xml" rel="self" type="application/rss+xml"/><item><title>自作PCを作りたい（仮）</title><link>https://memo.touyu.me/posts/homebuilt-computer/</link><pubDate>Fri, 14 Feb 2020 23:31:01 +0900</pubDate><guid>https://memo.touyu.me/posts/homebuilt-computer/</guid><description>今年の４月から大学に復学して、ニューラルネット系の研究を主にやろうと思っているのだが、今持っているiMacのスペックでは心もとなく（特にGPU)、クラウドを使うことも考えたけど、前から興味があった自作PCもありじゃないかと思いたった。
+今回の自作PCの目標 機械学習用にGPU強め どうせGPU強めならPCゲームもできるようにしたい 金はないので10-15万で揃えたい 現時点で考えてる各パーツ 今回はGPUがメインなので GPU -&amp;gt; CPU -&amp;gt; グラボ、メモリ の順番で考えていきたい。
+まだ全部決まってないので、状況変わり次第アップデートしていく。
+GPU 性能比較
+メーカーは、NVIDA、AMDがあるけど、機械学習FWの対応的にNVIDA製のほうがいいらしい
+RTX 2070 (5万) RTX 2070 SUPER（5-7万) RTX 2080 SUPER (8-10万) 欲しい性能的には↑あたりかなと思っていて、価格を考えると、2080 SUPERは正直高い。 2080無印もあるけど2080 SUPERそれほど値段はかわらない。 となると、2070, 2070 SUPER がベターっぽい気がする。
+CPU CPUは、GPUの足を引っ張らない程度のレベル感。
+GPU-CPU対応、Bottleneck Calculatorが参考になりそう。
+ゲームをするなら、Intelのほうが良さそうなイメージがある。しらんけど。
+Core i5 9400F (1.7万) Core i5 9600K (2.5万) Core i7 9700F (3.7万) Core i7 9700K (4.5万) 末尾のアルファベット
+K: オーバークロック可能、ファンが付いていない F: 内蔵GPUなし、グラボ前提 以下、Bottleneck Calculator による計算結果</description></item><item><title>面白い異世界系アニメと面白くない異世界系アニメの違い</title><link>https://memo.touyu.me/posts/another-world-anime/</link><pubDate>Mon, 06 Jan 2020 20:09:34 +0900</pubDate><guid>https://memo.touyu.me/posts/another-world-anime/</guid><description>ここでいう異世界アニメは異世界転生系と思ってほしい。 基本的に異世界アニメは好きで、クソだなと思った作品でも大体最終回まで惰性で見続けてしまう。（クソといってしまうと関係者全員をdisってしまっているように聞こえるが、あくまで作品の内容に対してのクソだと理解していただきたい）
 ここ最近は、毎期毎期、何かしらの異世界系アニメが放映されていると思う。 見続けていく中で、クソをクソだとわかりつつ楽しんでいるパターンと、純粋に作品として面白いと思って見ているパターンが存在しているなと気づいた。
 覚えている限りで分類するとこんな感じ。
 面白い クソ この素晴らしき世界に祝福を! 異世界はスマートフォンとともに。 転生したらスライムだった件 百錬の覇王と聖約の戦乙女 異世界魔王と召喚少女の奴隷魔術 賢者の孫 盾の勇者の成り上がり デスマーチからはじまる異世界狂想曲 ナイツ＆マジック 落第騎士の英雄譚 幼女戦記 異世界チート魔術師 Re:ゼロから始める異世界生活 オーバーロード 私、能力は平均値でって言ったよね！ 魔王様、リトライ！ 何がクソをクソたらしめているのか、興味がある。 多分、以下の特徴を満たせば満たすほどクソに近づけるのではないかと思う。

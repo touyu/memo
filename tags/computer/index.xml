@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>computer on memo.touyu.me</title><link>https://memo.touyu.me/tags/computer/</link><description>Recent content in computer on memo.touyu.me</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Fri, 14 Feb 2020 23:31:01 +0900</lastBuildDate><atom:link href="https://memo.touyu.me/tags/computer/index.xml" rel="self" type="application/rss+xml"/><item><title>自作PCを作りたい（仮）</title><link>https://memo.touyu.me/posts/homebuilt-computer/</link><pubDate>Fri, 14 Feb 2020 23:31:01 +0900</pubDate><guid>https://memo.touyu.me/posts/homebuilt-computer/</guid><description>今年の４月から大学に復学して、ニューラルネット系の研究を主にやろうと思っているのだが、今持っているiMacのスペックでは心もとなく（特にGPU)、クラウドを使うことも考えたけど、前から興味があった自作PCもありじゃないかと思いたった。
+今回の自作PCの目標 機械学習用にGPU強め どうせGPU強めならPCゲームもできるようにしたい 金はないので10-15万で揃えたい 現時点で考えてる各パーツ 今回はGPUがメインなので GPU -&amp;gt; CPU -&amp;gt; グラボ、メモリ の順番で考えていきたい。
+まだ全部決まってないので、状況変わり次第アップデートしていく。
+GPU 性能比較
+メーカーは、NVIDA、AMDがあるけど、機械学習FWの対応的にNVIDA製のほうがいいらしい
+RTX 2070 (5万) RTX 2070 SUPER（5-7万) RTX 2080 SUPER (8-10万) 欲しい性能的には↑あたりかなと思っていて、価格を考えると、2080 SUPERは正直高い。 2080無印もあるけど2080 SUPERそれほど値段はかわらない。 となると、2070, 2070 SUPER がベターっぽい気がする。
+CPU CPUは、GPUの足を引っ張らない程度のレベル感。
+GPU-CPU対応、Bottleneck Calculatorが参考になりそう。
+ゲームをするなら、Intelのほうが良さそうなイメージがある。しらんけど。
+Core i5 9400F (1.7万) Core i5 9600K (2.5万) Core i7 9700F (3.7万) Core i7 9700K (4.5万) 末尾のアルファベット
+K: オーバークロック可能、ファンが付いていない F: 内蔵GPUなし、グラボ前提 以下、Bottleneck Calculator による計算結果</description></item></channel></rss>
