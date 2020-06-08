@@ -1,7 +1,7 @@
 ---
 title: "自作PCを作りたい （組み立て編）"
 date: 2020-06-09T01:13:31+09:00
-draft: true
+draft: false
 ---
 
 [前回の記事（自作PCを作りたい（パーツ購入））](https://memo.touyu.me/posts/homebuilt-compute2) の続き
