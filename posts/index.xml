@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on memo.touyu.me</title><link>https://memo.touyu.me/posts/</link><description>Recent content in Posts on memo.touyu.me</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 25 Apr 2020 16:24:03 +0900</lastBuildDate><atom:link href="https://memo.touyu.me/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>自作PCを作りたい （パーツ購入）</title><link>https://memo.touyu.me/posts/homebuilt-computer2/</link><pubDate>Sat, 25 Apr 2020 16:24:03 +0900</pubDate><guid>https://memo.touyu.me/posts/homebuilt-computer2/</guid><description>前回の記事（自作PCを作りたい（仮）） の続き
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on memo.touyu.me</title><link>https://memo.touyu.me/posts/</link><description>Recent content in Posts on memo.touyu.me</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Tue, 09 Jun 2020 01:13:31 +0900</lastBuildDate><atom:link href="https://memo.touyu.me/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>自作PCを作りたい （組み立て編）</title><link>https://memo.touyu.me/posts/homebuilt-computer3/</link><pubDate>Tue, 09 Jun 2020 01:13:31 +0900</pubDate><guid>https://memo.touyu.me/posts/homebuilt-computer3/</guid><description>前回の記事（自作PCを作りたい（パーツ購入）） の続き
+もう組み立ててから1ヶ月くらい立ってるけど、どんな感じになったかメモ
+今回のパーツ これに加えて、後で同じSSDをもう一つ買い足した。 1つはUbuntu用、もう１つはWindows用
+Windows OSは、昔に何回か買ったことがあった、play-asia.com っていう怪しいサイトでOEM版を購入した。
+OEMは確かマザボに紐づくはずなので、もし変える必要がでてきたら、OSも変えなきゃいけないかも
+今回1000円くらいで変えたから、そこそこ安くて良かった。結構変動があって、700円から2000円くらいの値幅を観測したことがある。
+素のマザボ CPU、クーラー、メモリを取り付けた メモリの差し込みがかなり固くてビビった。 もう折れる一歩手前くらいの力をかけたらなんとか入った。
+起動チェック ケースに入れる前に起動チェック。 特になんの不具合もなく、BIOS起動した。
+ケースに入れたあと 光らせるつもりはまったくなかったんだけど、マザボとGPUが光っててギラギラしてる。 消そうかと思ったけど、ちょっと面倒くさいし、意外と悪くないなみたいな気持ちになってきたからそのまま。
+GPUの「WHAT'S YOUR GAME?」がちょっと好き。
+その後 Windows 予定通り、Apexも快適に動作(4K, 60fps)していて嬉しい。ずっとPS4でやってたから、PCの操作になかなかなれなかったけど、最近はPS4時代ほどうまくは動けないけどマシになってきたかも。 ちょっと気になってるのは、垂直同期をオフにすると、ティアリングが発生してしまう。 GPUが映像を出す速度が早すぎて、モニターが60Hzだから追いつかずに画面が乱れるのかも？ とりあえず、垂直同期ONでプレイを続けてるけど、せっかくだと思い、WQHDの144Hzのモニターを買ってしまった。（近日中に届きそう） ヌルヌルを体感したい。
+Linux RTXシリーズは、cuDNNと相性が良くないらしく、Tensorflowで書かれたコードの場合は、一部変更しないとうまく動かないことが判明した。 このバグは既知らしいけど、issueを見る感じ未だに解決されてなさそう。 環境構築に1日くらいかかったけど、ちゃんとTensorflow, Keras, PyTorch で学習させることができた。
+なるべく、原論文に寄せたVanila GAN の実装で試したとこ、 MNIST、epochs 30000、batch size 32の学習が4分程度の速さで終わって驚き。GPUすごい。
+Pix2pix(epochs 200, batch size 1) で学習に大体4時間くらいかかった。画像サイズが256 * 256でもそこそこ現実的な時間に収まっててすごい。
+研究室でもある程度、クラウドとかの費用を負担してくれるらしいので、軽くこのPCで試してみて、時間かかりそうならもっとスペック高いクラウドで学習させるみたいな流れが確立できそうで嬉しい。
+今回、自作してから、パーツ類の知識がぐっと増えたのでそういう記事とか動画をよく見るようになったし、知識が増えた分だけ楽しめるようになった。 今までエンジニアやっておきながら、メモリの速度とかM.2とか全然知らなかったので、いい勉強になったなーという感じ。
+組むこと自体は面倒くさいといえば面倒くさいので、正直、構成を考えてるときが１番楽しかったかもしれないｗ</description></item><item><title>自作PCを作りたい （パーツ購入）</title><link>https://memo.touyu.me/posts/homebuilt-computer2/</link><pubDate>Sat, 25 Apr 2020 16:24:03 +0900</pubDate><guid>https://memo.touyu.me/posts/homebuilt-computer2/</guid><description>前回の記事（自作PCを作りたい（仮）） の続き
 いつかやろうやろうと思っていた自作ＰＣをついにやるときがきた。
 今回は、以下を満たすようにパーツを選んでいった。
 予算10万〜15万 DNN系でもそこそこの時間で学習させられそうなスペック Apex Legend で HD画質 144hz が期待できるスペック 選んだパーツ GPU RTX 2070 SUPER (玄人志向 GAALAKURO GAMING GG-RTX2070SP-E8GB/DF)
