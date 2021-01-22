@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on memo.touyu.me</title><link>https://memo.touyu.me/posts/</link><description>Recent content in Posts on memo.touyu.me</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Tue, 22 Dec 2020 19:54:29 +0900</lastBuildDate><atom:link href="https://memo.touyu.me/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>2020年</title><link>https://memo.touyu.me/posts/2020/</link><pubDate>Tue, 22 Dec 2020 19:54:29 +0900</pubDate><guid>https://memo.touyu.me/posts/2020/</guid><description>今年も振り返りを書いていきたいと思う。30日くらいから書き始めようと思ったけど、卒論やらなんやらで、年末年始は忙しくなりそうなので、前もってちょっと書いておく。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on memo.touyu.me</title><link>https://memo.touyu.me/posts/</link><description>Recent content in Posts on memo.touyu.me</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 23 Jan 2021 00:18:23 +0900</lastBuildDate><atom:link href="https://memo.touyu.me/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>投資メモ</title><link>https://memo.touyu.me/posts/investment/</link><pubDate>Sat, 23 Jan 2021 00:18:23 +0900</pubDate><guid>https://memo.touyu.me/posts/investment/</guid><description>現状、どういう思考で、何を持ってるのかメモ
+株 つみたてNISA (eMAXIS Slim 米国株式(S&amp;amp;P500)) 貯金代わり、上限MAXで積立。
+iDeCo 60歳まで現金化できないので、現状やるつもりはない。 30歳くらいで、再度検討
+個別株, ETF 好ましく思ってる企業、もしくは伸びそうなセクターのETFを購入
+$QQQ NASDAQはまだ伸びると思う。
+$SMH 半導体、電気自動車、機械学習関連でまだまだ需要があると思う。 $TSMCにも期待。
+$QCLN Teslaが上がりすぎてて怖いが、ETFなら直接買うよりは暴落で痛くないかなという思い。
+$APPL AR,、VR、 電気自動車、 M1 Mac、 iPhone でまだまだ行けると思う。
+$AMD Ryzen, Radeon 共にコスパ良い. 機械学習にGPUが使えないのが微妙。 $SMHに移行してもいい気がするけど、Intelがまだ巻き返してくる様子がない &amp;amp; 直近の上昇率が高いので保有。
+$NIO 上昇率良いので保有。 しかし、中国系企業の株を長期で持ちたくないので、頃合いを見て$QCLNに全部移行したい
+仮想通貨 2016年くらいに購入していたBTCを370万円で一旦、20万円以内で現金化した。 250万くらいまで落ちたら、もう一回買ってもいいかも。
+アルトコインは、bitFlyerのスプレッドが広すぎて売買しづらいから基本買わない。
+利益が出ても、雑所得で確定申告が面倒くさいので、あんまり突っ込みすぎないようにする。</description></item><item><title>2020年</title><link>https://memo.touyu.me/posts/2020/</link><pubDate>Tue, 22 Dec 2020 19:54:29 +0900</pubDate><guid>https://memo.touyu.me/posts/2020/</guid><description>今年も振り返りを書いていきたいと思う。30日くらいから書き始めようと思ったけど、卒論やらなんやらで、年末年始は忙しくなりそうなので、前もってちょっと書いておく。
 新型コロナ これ抜きには、今年は振り返れないなと思う。 3月くらいでは、かなり楽観的に、4、5月には収まっているだろうと思っていたが、なんと12月に入った今でも収まっていないという驚異的な事案になってしまった。 2020年は、本当にひどい年でなあ、と孫に語ってるような気がする。
 しかし、良いところというと不謹慎かもしれないが、家に引きこもることが正義になったのは居心地が良かった。 いかに電車が不快で、夏の炎天下、冬の寒い中、外に出ることがどれほど大変なことだったか、よりわかった。 おかげで、今年は家に引きこもって、色んなことを勉強できたような気がする。
 大学復学、GANの研究 と 仕事 4月くらいから、滋賀県の大学近くに住み始めた。もちろん、大学に通うためにそこにしたんだけど、新型コロナのせいで、現時点でまだ10回くらいしか登校してないので、前期に関しては、引っ越した意味は全く無かった（コロナ東京直撃を避けられたくらい） 前の家は、木造のボロアパートだったこともあって、今の家は同じ家賃だけど、ちょっと広くなって、鉄筋コンクリートになったことでQOLがバク上がりした。もう前の家に戻れる気がしないので、やはり生活水準を上げるというのは少し恐ろしい。
