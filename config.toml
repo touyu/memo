@@ -6,14 +6,15 @@ paginate = 15
 
 [params]
   author = "touyu"
-  description = "This is just a memorandum."
+#   description = "This is just a memorandum."
   customCSS = ["/css/custom.css"]
   images = ["og.png"]
 
 [params.style]
   # darkestColor = "#463625"
-  # darkColor = "#2a3738"
+#   darkestColor = "#000000"
+  darkColor = "#333333"
   primaryColor = "#3498db"
-  # lightColor = "#96a879"
+  lightColor = "#dddddd"
   # lightestColor = "#ffffff"
   
