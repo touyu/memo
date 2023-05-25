@@ -8,7 +8,7 @@ publish_mode: editorial_workflow
 collections:
   - name: "posts"
     label: "Posts"
-    folder: "content/posts"
+    folder: "content"
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string", required: false}
